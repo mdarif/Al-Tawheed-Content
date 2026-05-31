@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T00:00:00Z",
+  "updatedAt": "2026-05-31T00:00:00Z",
   "announcements": [
     {
       "id": "ann-001",
@@ -9,7 +9,7 @@
       "body": "Available on App Store shortly. JazakAllahu Khayran.",
       "ctaLabel": null,
       "ctaUrl": null,
-      "validFrom": "2026-06-01T00:00:00Z",
+      "validFrom": "2026-05-01T00:00:00Z",
       "validUntil": "2026-12-31T00:00:00Z",
       "platforms": ["android", "ios"]
     }
