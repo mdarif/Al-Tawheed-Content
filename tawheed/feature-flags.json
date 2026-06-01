@@ -9,7 +9,8 @@
     "announcements": true,
     "shareButton": true,
     "playbackSpeed": true,
-    "continueListening": true
+    "continueListening": true,
+    "language": false
   },
   "experimental": {
     "arabicTranslations": false,
