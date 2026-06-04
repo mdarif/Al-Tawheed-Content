@@ -23,7 +23,7 @@ _headers              ← Cloudflare Pages cache + CORS config
 | | |
 |---|---|
 | Book | Sharah Kitab al-Tawheed (شرح كتاب التوحيد) |
-| Speaker | Fazilat Shaikh Abdullah Nasir Rahmani |
+| Speaker | Fazilat Shaikh Abdullah Nasir Rahmani Hafizaullah |
 | Language | Urdu |
 | Lectures | 50 |
 | Classes | 15 |
