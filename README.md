@@ -9,7 +9,8 @@ Deployed via **Cloudflare Pages** at `https://al-tawheed-content.pages.dev`
 ```
 tawheed/
   catalog.json        ← lecture catalog (fetched by the app on launch)
-  cover.jpg           ← book cover image
+  images/
+    cover.jpg         ← book cover image
   audio/
     lec-001.mp3       ← 50 lectures, lec-001 through lec-050
     lec-002.mp3
@@ -35,6 +36,16 @@ _headers              ← Cloudflare Pages cache + CORS config
 - Build command: *(none)*
 - Output directory: `/`
 - Deployed URL: `https://al-tawheed-content.pages.dev`
+
+## Book cover (`cover.jpg`)
+
+Same artwork as the Flutter app (`Al-Tawheed/assets/tawheed.png`). Referenced in `catalog.json` as `book.coverImageUrl`. Regenerate after changing the PNG:
+
+```bash
+sips -s format jpeg -s formatOptions 90 \
+  ../Al-Tawheed/assets/tawheed.png \
+  --out tawheed/images/cover.jpg
+```
 
 ## Updating the catalog
 
