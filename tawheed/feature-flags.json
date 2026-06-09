@@ -6,7 +6,7 @@
     "downloads": true,
     "studyMode": true,
     "dailyBenefits": true,
-    "announcements": true,
+    "announcements": false,
     "shareButton": true,
     "playbackSpeed": true,
     "continueListening": true,
