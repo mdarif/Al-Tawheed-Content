@@ -1,0 +1,1209 @@
+{
+  "version": 1,
+  "book": {
+    "id": "kitab-at-tawheed-ar",
+    "title": {
+      "en": "Kitab at-Tawheed",
+      "ar": "كتاب التوحيد"
+    },
+    "titleArabic": "كتاب التوحيد",
+    "author": "Muhammad ibn Abd al-Wahhab",
+    "speaker": {
+      "en": "Shaykh Salih Al-Fawzan",
+      "ar": "الشيخ صالح الفوزان"
+    },
+    "speakerShortName": "Shaykh Al-Fawzan",
+    "totalDurationSeconds": 83940,
+    "lectureCount": 91,
+    "coverImageUrl": "https://al-tawheed-content.pages.dev/tawheed/images/cover.jpg",
+    "language": "Arabic",
+    "catalogUpdatedAt": "2026-06-13T00:00:00Z"
+  },
+  "chapters": [],
+  "lectures": [
+    {
+      "id": "lec-001",
+      "number": 1,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 01",
+        "ar": "الدرس ٠١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-001.mp3",
+      "durationSeconds": 1260,
+      "fileSizeBytes": 14553097,
+      "description": null
+    },
+    {
+      "id": "lec-002",
+      "number": 2,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 02",
+        "ar": "الدرس ٠٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-002.mp3",
+      "durationSeconds": 1358,
+      "fileSizeBytes": 15723992,
+      "description": null
+    },
+    {
+      "id": "lec-003",
+      "number": 3,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 03",
+        "ar": "الدرس ٠٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-003.mp3",
+      "durationSeconds": 1106,
+      "fileSizeBytes": 12973457,
+      "description": null
+    },
+    {
+      "id": "lec-004",
+      "number": 4,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 04",
+        "ar": "الدرس ٠٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-004.mp3",
+      "durationSeconds": 1263,
+      "fileSizeBytes": 14630622,
+      "description": null
+    },
+    {
+      "id": "lec-005",
+      "number": 5,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 05",
+        "ar": "الدرس ٠٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-005.mp3",
+      "durationSeconds": 1024,
+      "fileSizeBytes": 10979650,
+      "description": null
+    },
+    {
+      "id": "lec-006",
+      "number": 6,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 06",
+        "ar": "الدرس ٠٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-006.mp3",
+      "durationSeconds": 1132,
+      "fileSizeBytes": 13220647,
+      "description": null
+    },
+    {
+      "id": "lec-007",
+      "number": 7,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 07",
+        "ar": "الدرس ٠٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-007.mp3",
+      "durationSeconds": 1140,
+      "fileSizeBytes": 12556556,
+      "description": null
+    },
+    {
+      "id": "lec-008",
+      "number": 8,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 08",
+        "ar": "الدرس ٠٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-008.mp3",
+      "durationSeconds": 1211,
+      "fileSizeBytes": 13808893,
+      "description": null
+    },
+    {
+      "id": "lec-009",
+      "number": 9,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 09",
+        "ar": "الدرس ٠٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-009.mp3",
+      "durationSeconds": 1165,
+      "fileSizeBytes": 13089438,
+      "description": null
+    },
+    {
+      "id": "lec-010",
+      "number": 10,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 10",
+        "ar": "الدرس ١٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-010.mp3",
+      "durationSeconds": 1097,
+      "fileSizeBytes": 12903744,
+      "description": null
+    },
+    {
+      "id": "lec-011",
+      "number": 11,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 11",
+        "ar": "الدرس ١١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-011.mp3",
+      "durationSeconds": 1186,
+      "fileSizeBytes": 13859451,
+      "description": null
+    },
+    {
+      "id": "lec-012",
+      "number": 12,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 12",
+        "ar": "الدرس ١٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-012.mp3",
+      "durationSeconds": 1121,
+      "fileSizeBytes": 13195444,
+      "description": null
+    },
+    {
+      "id": "lec-013",
+      "number": 13,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 13",
+        "ar": "الدرس ١٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-013.mp3",
+      "durationSeconds": 1069,
+      "fileSizeBytes": 15275682,
+      "description": null
+    },
+    {
+      "id": "lec-014",
+      "number": 14,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 14",
+        "ar": "الدرس ١٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-014.mp3",
+      "durationSeconds": 1171,
+      "fileSizeBytes": 14322779,
+      "description": null
+    },
+    {
+      "id": "lec-015",
+      "number": 15,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 15",
+        "ar": "الدرس ١٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-015.mp3",
+      "durationSeconds": 1078,
+      "fileSizeBytes": 12864553,
+      "description": null
+    },
+    {
+      "id": "lec-016",
+      "number": 16,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 16",
+        "ar": "الدرس ١٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-016.mp3",
+      "durationSeconds": 1090,
+      "fileSizeBytes": 12838770,
+      "description": null
+    },
+    {
+      "id": "lec-017",
+      "number": 17,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 17",
+        "ar": "الدرس ١٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-017.mp3",
+      "durationSeconds": 957,
+      "fileSizeBytes": 11570618,
+      "description": null
+    },
+    {
+      "id": "lec-018",
+      "number": 18,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 18",
+        "ar": "الدرس ١٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-018.mp3",
+      "durationSeconds": 1091,
+      "fileSizeBytes": 13355052,
+      "description": null
+    },
+    {
+      "id": "lec-019",
+      "number": 19,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 19",
+        "ar": "الدرس ١٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-019.mp3",
+      "durationSeconds": 1354,
+      "fileSizeBytes": 14736626,
+      "description": null
+    },
+    {
+      "id": "lec-020",
+      "number": 20,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 20",
+        "ar": "الدرس ٢٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-020.mp3",
+      "durationSeconds": 843,
+      "fileSizeBytes": 9975985,
+      "description": null
+    },
+    {
+      "id": "lec-021",
+      "number": 21,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 21",
+        "ar": "الدرس ٢١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-021.mp3",
+      "durationSeconds": 1051,
+      "fileSizeBytes": 11886433,
+      "description": null
+    },
+    {
+      "id": "lec-022",
+      "number": 22,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 22",
+        "ar": "الدرس ٢٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-022.mp3",
+      "durationSeconds": 835,
+      "fileSizeBytes": 10230610,
+      "description": null
+    },
+    {
+      "id": "lec-023",
+      "number": 23,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 23",
+        "ar": "الدرس ٢٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-023.mp3",
+      "durationSeconds": 1051,
+      "fileSizeBytes": 13221501,
+      "description": null
+    },
+    {
+      "id": "lec-024",
+      "number": 24,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 24",
+        "ar": "الدرس ٢٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-024.mp3",
+      "durationSeconds": 601,
+      "fileSizeBytes": 7560013,
+      "description": null
+    },
+    {
+      "id": "lec-025",
+      "number": 25,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 25",
+        "ar": "الدرس ٢٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-025.mp3",
+      "durationSeconds": 916,
+      "fileSizeBytes": 11259853,
+      "description": null
+    },
+    {
+      "id": "lec-026",
+      "number": 26,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 26",
+        "ar": "الدرس ٢٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-026.mp3",
+      "durationSeconds": 1016,
+      "fileSizeBytes": 12787956,
+      "description": null
+    },
+    {
+      "id": "lec-027",
+      "number": 27,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 27",
+        "ar": "الدرس ٢٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-027.mp3",
+      "durationSeconds": 988,
+      "fileSizeBytes": 12567764,
+      "description": null
+    },
+    {
+      "id": "lec-028",
+      "number": 28,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 28",
+        "ar": "الدرس ٢٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-028.mp3",
+      "durationSeconds": 1031,
+      "fileSizeBytes": 13464784,
+      "description": null
+    },
+    {
+      "id": "lec-029",
+      "number": 29,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 29",
+        "ar": "الدرس ٢٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-029.mp3",
+      "durationSeconds": 1036,
+      "fileSizeBytes": 13084768,
+      "description": null
+    },
+    {
+      "id": "lec-030",
+      "number": 30,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 30",
+        "ar": "الدرس ٣٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-030.mp3",
+      "durationSeconds": 1000,
+      "fileSizeBytes": 12597301,
+      "description": null
+    },
+    {
+      "id": "lec-031",
+      "number": 31,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 31",
+        "ar": "الدرس ٣١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-031.mp3",
+      "durationSeconds": 908,
+      "fileSizeBytes": 11442390,
+      "description": null
+    },
+    {
+      "id": "lec-032",
+      "number": 32,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 32",
+        "ar": "الدرس ٣٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-032.mp3",
+      "durationSeconds": 1000,
+      "fileSizeBytes": 12684885,
+      "description": null
+    },
+    {
+      "id": "lec-033",
+      "number": 33,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 33",
+        "ar": "الدرس ٣٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-033.mp3",
+      "durationSeconds": 1149,
+      "fileSizeBytes": 14374842,
+      "description": null
+    },
+    {
+      "id": "lec-034",
+      "number": 34,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 34",
+        "ar": "الدرس ٣٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-034.mp3",
+      "durationSeconds": 1060,
+      "fileSizeBytes": 12999702,
+      "description": null
+    },
+    {
+      "id": "lec-035",
+      "number": 35,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 35",
+        "ar": "الدرس ٣٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-035.mp3",
+      "durationSeconds": 1029,
+      "fileSizeBytes": 12670916,
+      "description": null
+    },
+    {
+      "id": "lec-036",
+      "number": 36,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 36",
+        "ar": "الدرس ٣٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-036.mp3",
+      "durationSeconds": 775,
+      "fileSizeBytes": 9880100,
+      "description": null
+    },
+    {
+      "id": "lec-037",
+      "number": 37,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 37",
+        "ar": "الدرس ٣٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-037.mp3",
+      "durationSeconds": 1037,
+      "fileSizeBytes": 11327823,
+      "description": null
+    },
+    {
+      "id": "lec-038",
+      "number": 38,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 38",
+        "ar": "الدرس ٣٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-038.mp3",
+      "durationSeconds": 1247,
+      "fileSizeBytes": 16173506,
+      "description": null
+    },
+    {
+      "id": "lec-039",
+      "number": 39,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 39",
+        "ar": "الدرس ٣٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-039.mp3",
+      "durationSeconds": 951,
+      "fileSizeBytes": 11615919,
+      "description": null
+    },
+    {
+      "id": "lec-040",
+      "number": 40,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 40",
+        "ar": "الدرس ٤٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-040.mp3",
+      "durationSeconds": 870,
+      "fileSizeBytes": 11102858,
+      "description": null
+    },
+    {
+      "id": "lec-041",
+      "number": 41,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 41",
+        "ar": "الدرس ٤١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-041.mp3",
+      "durationSeconds": 943,
+      "fileSizeBytes": 10080522,
+      "description": null
+    },
+    {
+      "id": "lec-042",
+      "number": 42,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 42",
+        "ar": "الدرس ٤٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-042.mp3",
+      "durationSeconds": 905,
+      "fileSizeBytes": 10438320,
+      "description": null
+    },
+    {
+      "id": "lec-043",
+      "number": 43,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 43",
+        "ar": "الدرس ٤٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-043.mp3",
+      "durationSeconds": 881,
+      "fileSizeBytes": 9357115,
+      "description": null
+    },
+    {
+      "id": "lec-044",
+      "number": 44,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 44",
+        "ar": "الدرس ٤٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-044.mp3",
+      "durationSeconds": 913,
+      "fileSizeBytes": 10059521,
+      "description": null
+    },
+    {
+      "id": "lec-045",
+      "number": 45,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 45",
+        "ar": "الدرس ٤٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-045.mp3",
+      "durationSeconds": 805,
+      "fileSizeBytes": 9551599,
+      "description": null
+    },
+    {
+      "id": "lec-046",
+      "number": 46,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 46",
+        "ar": "الدرس ٤٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-046.mp3",
+      "durationSeconds": 1075,
+      "fileSizeBytes": 12339846,
+      "description": null
+    },
+    {
+      "id": "lec-047",
+      "number": 47,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 47",
+        "ar": "الدرس ٤٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-047.mp3",
+      "durationSeconds": 762,
+      "fileSizeBytes": 9166081,
+      "description": null
+    },
+    {
+      "id": "lec-048",
+      "number": 48,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 48",
+        "ar": "الدرس ٤٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-048.mp3",
+      "durationSeconds": 807,
+      "fileSizeBytes": 9018779,
+      "description": null
+    },
+    {
+      "id": "lec-049",
+      "number": 49,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 49",
+        "ar": "الدرس ٤٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-049.mp3",
+      "durationSeconds": 931,
+      "fileSizeBytes": 10831616,
+      "description": null
+    },
+    {
+      "id": "lec-050",
+      "number": 50,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 50",
+        "ar": "الدرس ٥٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-050.mp3",
+      "durationSeconds": 897,
+      "fileSizeBytes": 10366795,
+      "description": null
+    },
+    {
+      "id": "lec-051",
+      "number": 51,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 51",
+        "ar": "الدرس ٥١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-051.mp3",
+      "durationSeconds": 743,
+      "fileSizeBytes": 7879243,
+      "description": null
+    },
+    {
+      "id": "lec-052",
+      "number": 52,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 52",
+        "ar": "الدرس ٥٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-052.mp3",
+      "durationSeconds": 635,
+      "fileSizeBytes": 7262149,
+      "description": null
+    },
+    {
+      "id": "lec-053",
+      "number": 53,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 53",
+        "ar": "الدرس ٥٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-053.mp3",
+      "durationSeconds": 854,
+      "fileSizeBytes": 9053189,
+      "description": null
+    },
+    {
+      "id": "lec-054",
+      "number": 54,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 54",
+        "ar": "الدرس ٥٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-054.mp3",
+      "durationSeconds": 988,
+      "fileSizeBytes": 10605500,
+      "description": null
+    },
+    {
+      "id": "lec-055",
+      "number": 55,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 55",
+        "ar": "الدرس ٥٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-055.mp3",
+      "durationSeconds": 986,
+      "fileSizeBytes": 10356398,
+      "description": null
+    },
+    {
+      "id": "lec-056",
+      "number": 56,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 56",
+        "ar": "الدرس ٥٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-056.mp3",
+      "durationSeconds": 959,
+      "fileSizeBytes": 10370930,
+      "description": null
+    },
+    {
+      "id": "lec-057",
+      "number": 57,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 57",
+        "ar": "الدرس ٥٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-057.mp3",
+      "durationSeconds": 1010,
+      "fileSizeBytes": 10695381,
+      "description": null
+    },
+    {
+      "id": "lec-058",
+      "number": 58,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 58",
+        "ar": "الدرس ٥٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-058.mp3",
+      "durationSeconds": 759,
+      "fileSizeBytes": 8787527,
+      "description": null
+    },
+    {
+      "id": "lec-059",
+      "number": 59,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 59",
+        "ar": "الدرس ٥٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-059.mp3",
+      "durationSeconds": 914,
+      "fileSizeBytes": 10768438,
+      "description": null
+    },
+    {
+      "id": "lec-060",
+      "number": 60,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 60",
+        "ar": "الدرس ٦٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-060.mp3",
+      "durationSeconds": 913,
+      "fileSizeBytes": 11327068,
+      "description": null
+    },
+    {
+      "id": "lec-061",
+      "number": 61,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 61",
+        "ar": "الدرس ٦١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-061.mp3",
+      "durationSeconds": 760,
+      "fileSizeBytes": 6049372,
+      "description": null
+    },
+    {
+      "id": "lec-062",
+      "number": 62,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 62",
+        "ar": "الدرس ٦٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-062.mp3",
+      "durationSeconds": 932,
+      "fileSizeBytes": 7099877,
+      "description": null
+    },
+    {
+      "id": "lec-063",
+      "number": 63,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 63",
+        "ar": "الدرس ٦٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-063.mp3",
+      "durationSeconds": 866,
+      "fileSizeBytes": 10196691,
+      "description": null
+    },
+    {
+      "id": "lec-064",
+      "number": 64,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 64",
+        "ar": "الدرس ٦٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-064.mp3",
+      "durationSeconds": 867,
+      "fileSizeBytes": 10425767,
+      "description": null
+    },
+    {
+      "id": "lec-065",
+      "number": 65,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 65",
+        "ar": "الدرس ٦٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-065.mp3",
+      "durationSeconds": 863,
+      "fileSizeBytes": 10301758,
+      "description": null
+    },
+    {
+      "id": "lec-066",
+      "number": 66,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 66",
+        "ar": "الدرس ٦٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-066.mp3",
+      "durationSeconds": 917,
+      "fileSizeBytes": 11568516,
+      "description": null
+    },
+    {
+      "id": "lec-067",
+      "number": 67,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 67",
+        "ar": "الدرس ٦٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-067.mp3",
+      "durationSeconds": 858,
+      "fileSizeBytes": 7076321,
+      "description": null
+    },
+    {
+      "id": "lec-068",
+      "number": 68,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 68",
+        "ar": "الدرس ٦٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-068.mp3",
+      "durationSeconds": 832,
+      "fileSizeBytes": 6935170,
+      "description": null
+    },
+    {
+      "id": "lec-069",
+      "number": 69,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 69",
+        "ar": "الدرس ٦٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-069.mp3",
+      "durationSeconds": 869,
+      "fileSizeBytes": 10963107,
+      "description": null
+    },
+    {
+      "id": "lec-070",
+      "number": 70,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 70",
+        "ar": "الدرس ٧٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-070.mp3",
+      "durationSeconds": 1085,
+      "fileSizeBytes": 13735575,
+      "description": null
+    },
+    {
+      "id": "lec-071",
+      "number": 71,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 71",
+        "ar": "الدرس ٧١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-071.mp3",
+      "durationSeconds": 805,
+      "fileSizeBytes": 7170193,
+      "description": null
+    },
+    {
+      "id": "lec-072",
+      "number": 72,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 72",
+        "ar": "الدرس ٧٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-072.mp3",
+      "durationSeconds": 862,
+      "fileSizeBytes": 7724345,
+      "description": null
+    },
+    {
+      "id": "lec-073",
+      "number": 73,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 73",
+        "ar": "الدرس ٧٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-073.mp3",
+      "durationSeconds": 605,
+      "fileSizeBytes": 7678347,
+      "description": null
+    },
+    {
+      "id": "lec-074",
+      "number": 74,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 74",
+        "ar": "الدرس ٧٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-074.mp3",
+      "durationSeconds": 564,
+      "fileSizeBytes": 7207327,
+      "description": null
+    },
+    {
+      "id": "lec-075",
+      "number": 75,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 75",
+        "ar": "الدرس ٧٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-075.mp3",
+      "durationSeconds": 838,
+      "fileSizeBytes": 10778727,
+      "description": null
+    },
+    {
+      "id": "lec-076",
+      "number": 76,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 76",
+        "ar": "الدرس ٧٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-076.mp3",
+      "durationSeconds": 926,
+      "fileSizeBytes": 11538536,
+      "description": null
+    },
+    {
+      "id": "lec-077",
+      "number": 77,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 77",
+        "ar": "الدرس ٧٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-077.mp3",
+      "durationSeconds": 736,
+      "fileSizeBytes": 9077457,
+      "description": null
+    },
+    {
+      "id": "lec-078",
+      "number": 78,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 78",
+        "ar": "الدرس ٧٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-078.mp3",
+      "durationSeconds": 431,
+      "fileSizeBytes": 5393286,
+      "description": null
+    },
+    {
+      "id": "lec-079",
+      "number": 79,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 79",
+        "ar": "الدرس ٧٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-079.mp3",
+      "durationSeconds": 751,
+      "fileSizeBytes": 9169982,
+      "description": null
+    },
+    {
+      "id": "lec-080",
+      "number": 80,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 80",
+        "ar": "الدرس ٨٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-080.mp3",
+      "durationSeconds": 495,
+      "fileSizeBytes": 6251060,
+      "description": null
+    },
+    {
+      "id": "lec-081",
+      "number": 81,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 81",
+        "ar": "الدرس ٨١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-081.mp3",
+      "durationSeconds": 819,
+      "fileSizeBytes": 10408153,
+      "description": null
+    },
+    {
+      "id": "lec-082",
+      "number": 82,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 82",
+        "ar": "الدرس ٨٢"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-082.mp3",
+      "durationSeconds": 586,
+      "fileSizeBytes": 7584112,
+      "description": null
+    },
+    {
+      "id": "lec-083",
+      "number": 83,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 83",
+        "ar": "الدرس ٨٣"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-083.mp3",
+      "durationSeconds": 730,
+      "fileSizeBytes": 9059472,
+      "description": null
+    },
+    {
+      "id": "lec-084",
+      "number": 84,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 84",
+        "ar": "الدرس ٨٤"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-084.mp3",
+      "durationSeconds": 511,
+      "fileSizeBytes": 6451159,
+      "description": null
+    },
+    {
+      "id": "lec-085",
+      "number": 85,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 85",
+        "ar": "الدرس ٨٥"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-085.mp3",
+      "durationSeconds": 769,
+      "fileSizeBytes": 9864211,
+      "description": null
+    },
+    {
+      "id": "lec-086",
+      "number": 86,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 86",
+        "ar": "الدرس ٨٦"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-086.mp3",
+      "durationSeconds": 988,
+      "fileSizeBytes": 12527118,
+      "description": null
+    },
+    {
+      "id": "lec-087",
+      "number": 87,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 87",
+        "ar": "الدرس ٨٧"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-087.mp3",
+      "durationSeconds": 735,
+      "fileSizeBytes": 8903599,
+      "description": null
+    },
+    {
+      "id": "lec-088",
+      "number": 88,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 88",
+        "ar": "الدرس ٨٨"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-088.mp3",
+      "durationSeconds": 844,
+      "fileSizeBytes": 10681498,
+      "description": null
+    },
+    {
+      "id": "lec-089",
+      "number": 89,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 89",
+        "ar": "الدرس ٨٩"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-089.mp3",
+      "durationSeconds": 588,
+      "fileSizeBytes": 5077667,
+      "description": null
+    },
+    {
+      "id": "lec-090",
+      "number": 90,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 90",
+        "ar": "الدرس ٩٠"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-090.mp3",
+      "durationSeconds": 798,
+      "fileSizeBytes": 9517395,
+      "description": null
+    },
+    {
+      "id": "lec-091",
+      "number": 91,
+      "chapterId": "",
+      "title": {
+        "en": "Dars 91",
+        "ar": "الدرس ٩١"
+      },
+      "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/ar/lec-091.mp3",
+      "durationSeconds": 763,
+      "fileSizeBytes": 9240674,
+      "description": null
+    }
+  ],
+  "dailyBenefits": []
+}

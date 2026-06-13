@@ -15,6 +15,7 @@
   "experimental": {
     "arabicTranslations": false,
     "crossDeviceSync": false,
-    "searchLectures": false
+    "searchLectures": false,
+    "multiSeries": false
   }
 }
