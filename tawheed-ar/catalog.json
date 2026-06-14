@@ -27,7 +27,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 01",
-        "ar": "الدرس ٠١"
+        "ar": "الدرس الأول"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-001.mp3",
       "durationSeconds": 1260,
@@ -40,7 +40,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 02",
-        "ar": "الدرس ٠٢"
+        "ar": "الدرس الثاني"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-002.mp3",
       "durationSeconds": 1358,
@@ -53,7 +53,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 03",
-        "ar": "الدرس ٠٣"
+        "ar": "الدرس الثالث"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-003.mp3",
       "durationSeconds": 1106,
@@ -66,7 +66,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 04",
-        "ar": "الدرس ٠٤"
+        "ar": "الدرس الرابع"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-004.mp3",
       "durationSeconds": 1263,
@@ -79,7 +79,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 05",
-        "ar": "الدرس ٠٥"
+        "ar": "الدرس الخامس"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-005.mp3",
       "durationSeconds": 1024,
@@ -92,7 +92,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 06",
-        "ar": "الدرس ٠٦"
+        "ar": "الدرس السادس"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-006.mp3",
       "durationSeconds": 1132,
@@ -105,7 +105,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 07",
-        "ar": "الدرس ٠٧"
+        "ar": "الدرس السابع"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-007.mp3",
       "durationSeconds": 1140,
@@ -118,7 +118,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 08",
-        "ar": "الدرس ٠٨"
+        "ar": "الدرس الثامن"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-008.mp3",
       "durationSeconds": 1211,
@@ -131,7 +131,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 09",
-        "ar": "الدرس ٠٩"
+        "ar": "الدرس التاسع"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-009.mp3",
       "durationSeconds": 1165,
@@ -144,7 +144,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 10",
-        "ar": "الدرس ١٠"
+        "ar": "الدرس العاشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-010.mp3",
       "durationSeconds": 1097,
@@ -157,7 +157,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 11",
-        "ar": "الدرس ١١"
+        "ar": "الدرس الحادي عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-011.mp3",
       "durationSeconds": 1186,
@@ -170,7 +170,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 12",
-        "ar": "الدرس ١٢"
+        "ar": "الدرس الثاني عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-012.mp3",
       "durationSeconds": 1121,
@@ -183,7 +183,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 13",
-        "ar": "الدرس ١٣"
+        "ar": "الدرس الثالث عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-013.mp3",
       "durationSeconds": 1069,
@@ -196,7 +196,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 14",
-        "ar": "الدرس ١٤"
+        "ar": "الدرس الرابع عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-014.mp3",
       "durationSeconds": 1171,
@@ -209,7 +209,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 15",
-        "ar": "الدرس ١٥"
+        "ar": "الدرس الخامس عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-015.mp3",
       "durationSeconds": 1078,
@@ -222,7 +222,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 16",
-        "ar": "الدرس ١٦"
+        "ar": "الدرس السادس عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-016.mp3",
       "durationSeconds": 1090,
@@ -235,7 +235,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 17",
-        "ar": "الدرس ١٧"
+        "ar": "الدرس السابع عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-017.mp3",
       "durationSeconds": 957,
@@ -248,7 +248,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 18",
-        "ar": "الدرس ١٨"
+        "ar": "الدرس الثامن عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-018.mp3",
       "durationSeconds": 1091,
@@ -261,7 +261,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 19",
-        "ar": "الدرس ١٩"
+        "ar": "الدرس التاسع عشر"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-019.mp3",
       "durationSeconds": 1354,
@@ -274,7 +274,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 20",
-        "ar": "الدرس ٢٠"
+        "ar": "الدرس العشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-020.mp3",
       "durationSeconds": 843,
@@ -287,7 +287,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 21",
-        "ar": "الدرس ٢١"
+        "ar": "الدرس الحادي والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-021.mp3",
       "durationSeconds": 1051,
@@ -300,7 +300,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 22",
-        "ar": "الدرس ٢٢"
+        "ar": "الدرس الثاني والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-022.mp3",
       "durationSeconds": 835,
@@ -313,7 +313,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 23",
-        "ar": "الدرس ٢٣"
+        "ar": "الدرس الثالث والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-023.mp3",
       "durationSeconds": 1051,
@@ -326,7 +326,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 24",
-        "ar": "الدرس ٢٤"
+        "ar": "الدرس الرابع والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-024.mp3",
       "durationSeconds": 601,
@@ -339,7 +339,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 25",
-        "ar": "الدرس ٢٥"
+        "ar": "الدرس الخامس والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-025.mp3",
       "durationSeconds": 916,
@@ -352,7 +352,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 26",
-        "ar": "الدرس ٢٦"
+        "ar": "الدرس السادس والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-026.mp3",
       "durationSeconds": 1016,
@@ -365,7 +365,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 27",
-        "ar": "الدرس ٢٧"
+        "ar": "الدرس السابع والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-027.mp3",
       "durationSeconds": 988,
@@ -378,7 +378,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 28",
-        "ar": "الدرس ٢٨"
+        "ar": "الدرس الثامن والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-028.mp3",
       "durationSeconds": 1031,
@@ -391,7 +391,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 29",
-        "ar": "الدرس ٢٩"
+        "ar": "الدرس التاسع والعشرون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-029.mp3",
       "durationSeconds": 1036,
@@ -404,7 +404,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 30",
-        "ar": "الدرس ٣٠"
+        "ar": "الدرس الثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-030.mp3",
       "durationSeconds": 1000,
@@ -417,7 +417,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 31",
-        "ar": "الدرس ٣١"
+        "ar": "الدرس الحادي والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-031.mp3",
       "durationSeconds": 908,
@@ -430,7 +430,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 32",
-        "ar": "الدرس ٣٢"
+        "ar": "الدرس الثاني والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-032.mp3",
       "durationSeconds": 1000,
@@ -443,7 +443,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 33",
-        "ar": "الدرس ٣٣"
+        "ar": "الدرس الثالث والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-033.mp3",
       "durationSeconds": 1149,
@@ -456,7 +456,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 34",
-        "ar": "الدرس ٣٤"
+        "ar": "الدرس الرابع والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-034.mp3",
       "durationSeconds": 1060,
@@ -469,7 +469,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 35",
-        "ar": "الدرس ٣٥"
+        "ar": "الدرس الخامس والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-035.mp3",
       "durationSeconds": 1029,
@@ -482,7 +482,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 36",
-        "ar": "الدرس ٣٦"
+        "ar": "الدرس السادس والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-036.mp3",
       "durationSeconds": 775,
@@ -495,7 +495,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 37",
-        "ar": "الدرس ٣٧"
+        "ar": "الدرس السابع والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-037.mp3",
       "durationSeconds": 1037,
@@ -508,7 +508,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 38",
-        "ar": "الدرس ٣٨"
+        "ar": "الدرس الثامن والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-038.mp3",
       "durationSeconds": 1247,
@@ -521,7 +521,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 39",
-        "ar": "الدرس ٣٩"
+        "ar": "الدرس التاسع والثلاثون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-039.mp3",
       "durationSeconds": 951,
@@ -534,7 +534,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 40",
-        "ar": "الدرس ٤٠"
+        "ar": "الدرس الأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-040.mp3",
       "durationSeconds": 870,
@@ -547,7 +547,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 41",
-        "ar": "الدرس ٤١"
+        "ar": "الدرس الحادي والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-041.mp3",
       "durationSeconds": 943,
@@ -560,7 +560,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 42",
-        "ar": "الدرس ٤٢"
+        "ar": "الدرس الثاني والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-042.mp3",
       "durationSeconds": 905,
@@ -573,7 +573,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 43",
-        "ar": "الدرس ٤٣"
+        "ar": "الدرس الثالث والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-043.mp3",
       "durationSeconds": 881,
@@ -586,7 +586,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 44",
-        "ar": "الدرس ٤٤"
+        "ar": "الدرس الرابع والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-044.mp3",
       "durationSeconds": 913,
@@ -599,7 +599,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 45",
-        "ar": "الدرس ٤٥"
+        "ar": "الدرس الخامس والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-045.mp3",
       "durationSeconds": 805,
@@ -612,7 +612,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 46",
-        "ar": "الدرس ٤٦"
+        "ar": "الدرس السادس والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-046.mp3",
       "durationSeconds": 1075,
@@ -625,7 +625,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 47",
-        "ar": "الدرس ٤٧"
+        "ar": "الدرس السابع والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-047.mp3",
       "durationSeconds": 762,
@@ -638,7 +638,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 48",
-        "ar": "الدرس ٤٨"
+        "ar": "الدرس الثامن والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-048.mp3",
       "durationSeconds": 807,
@@ -651,7 +651,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 49",
-        "ar": "الدرس ٤٩"
+        "ar": "الدرس التاسع والأربعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-049.mp3",
       "durationSeconds": 931,
@@ -664,7 +664,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 50",
-        "ar": "الدرس ٥٠"
+        "ar": "الدرس الخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-050.mp3",
       "durationSeconds": 897,
@@ -677,7 +677,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 51",
-        "ar": "الدرس ٥١"
+        "ar": "الدرس الحادي والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-051.mp3",
       "durationSeconds": 743,
@@ -690,7 +690,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 52",
-        "ar": "الدرس ٥٢"
+        "ar": "الدرس الثاني والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-052.mp3",
       "durationSeconds": 635,
@@ -703,7 +703,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 53",
-        "ar": "الدرس ٥٣"
+        "ar": "الدرس الثالث والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-053.mp3",
       "durationSeconds": 854,
@@ -716,7 +716,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 54",
-        "ar": "الدرس ٥٤"
+        "ar": "الدرس الرابع والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-054.mp3",
       "durationSeconds": 988,
@@ -729,7 +729,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 55",
-        "ar": "الدرس ٥٥"
+        "ar": "الدرس الخامس والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-055.mp3",
       "durationSeconds": 986,
@@ -742,7 +742,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 56",
-        "ar": "الدرس ٥٦"
+        "ar": "الدرس السادس والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-056.mp3",
       "durationSeconds": 959,
@@ -755,7 +755,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 57",
-        "ar": "الدرس ٥٧"
+        "ar": "الدرس السابع والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-057.mp3",
       "durationSeconds": 1010,
@@ -768,7 +768,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 58",
-        "ar": "الدرس ٥٨"
+        "ar": "الدرس الثامن والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-058.mp3",
       "durationSeconds": 759,
@@ -781,7 +781,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 59",
-        "ar": "الدرس ٥٩"
+        "ar": "الدرس التاسع والخمسون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-059.mp3",
       "durationSeconds": 914,
@@ -794,7 +794,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 60",
-        "ar": "الدرس ٦٠"
+        "ar": "الدرس الستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-060.mp3",
       "durationSeconds": 913,
@@ -807,7 +807,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 61",
-        "ar": "الدرس ٦١"
+        "ar": "الدرس الحادي والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-061.mp3",
       "durationSeconds": 760,
@@ -820,7 +820,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 62",
-        "ar": "الدرس ٦٢"
+        "ar": "الدرس الثاني والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-062.mp3",
       "durationSeconds": 932,
@@ -833,7 +833,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 63",
-        "ar": "الدرس ٦٣"
+        "ar": "الدرس الثالث والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-063.mp3",
       "durationSeconds": 866,
@@ -846,7 +846,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 64",
-        "ar": "الدرس ٦٤"
+        "ar": "الدرس الرابع والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-064.mp3",
       "durationSeconds": 867,
@@ -859,7 +859,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 65",
-        "ar": "الدرس ٦٥"
+        "ar": "الدرس الخامس والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-065.mp3",
       "durationSeconds": 863,
@@ -872,7 +872,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 66",
-        "ar": "الدرس ٦٦"
+        "ar": "الدرس السادس والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-066.mp3",
       "durationSeconds": 917,
@@ -885,7 +885,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 67",
-        "ar": "الدرس ٦٧"
+        "ar": "الدرس السابع والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-067.mp3",
       "durationSeconds": 858,
@@ -898,7 +898,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 68",
-        "ar": "الدرس ٦٨"
+        "ar": "الدرس الثامن والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-068.mp3",
       "durationSeconds": 832,
@@ -911,7 +911,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 69",
-        "ar": "الدرس ٦٩"
+        "ar": "الدرس التاسع والستون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-069.mp3",
       "durationSeconds": 869,
@@ -924,7 +924,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 70",
-        "ar": "الدرس ٧٠"
+        "ar": "الدرس السبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-070.mp3",
       "durationSeconds": 1085,
@@ -937,7 +937,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 71",
-        "ar": "الدرس ٧١"
+        "ar": "الدرس الحادي والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-071.mp3",
       "durationSeconds": 805,
@@ -950,7 +950,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 72",
-        "ar": "الدرس ٧٢"
+        "ar": "الدرس الثاني والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-072.mp3",
       "durationSeconds": 862,
@@ -963,7 +963,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 73",
-        "ar": "الدرس ٧٣"
+        "ar": "الدرس الثالث والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-073.mp3",
       "durationSeconds": 605,
@@ -976,7 +976,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 74",
-        "ar": "الدرس ٧٤"
+        "ar": "الدرس الرابع والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-074.mp3",
       "durationSeconds": 564,
@@ -989,7 +989,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 75",
-        "ar": "الدرس ٧٥"
+        "ar": "الدرس الخامس والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-075.mp3",
       "durationSeconds": 838,
@@ -1002,7 +1002,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 76",
-        "ar": "الدرس ٧٦"
+        "ar": "الدرس السادس والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-076.mp3",
       "durationSeconds": 926,
@@ -1015,7 +1015,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 77",
-        "ar": "الدرس ٧٧"
+        "ar": "الدرس السابع والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-077.mp3",
       "durationSeconds": 736,
@@ -1028,7 +1028,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 78",
-        "ar": "الدرس ٧٨"
+        "ar": "الدرس الثامن والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-078.mp3",
       "durationSeconds": 431,
@@ -1041,7 +1041,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 79",
-        "ar": "الدرس ٧٩"
+        "ar": "الدرس التاسع والسبعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-079.mp3",
       "durationSeconds": 751,
@@ -1054,7 +1054,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 80",
-        "ar": "الدرس ٨٠"
+        "ar": "الدرس الثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-080.mp3",
       "durationSeconds": 495,
@@ -1067,7 +1067,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 81",
-        "ar": "الدرس ٨١"
+        "ar": "الدرس الحادي والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-081.mp3",
       "durationSeconds": 819,
@@ -1080,7 +1080,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 82",
-        "ar": "الدرس ٨٢"
+        "ar": "الدرس الثاني والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-082.mp3",
       "durationSeconds": 586,
@@ -1093,7 +1093,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 83",
-        "ar": "الدرس ٨٣"
+        "ar": "الدرس الثالث والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-083.mp3",
       "durationSeconds": 730,
@@ -1106,7 +1106,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 84",
-        "ar": "الدرس ٨٤"
+        "ar": "الدرس الرابع والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-084.mp3",
       "durationSeconds": 511,
@@ -1119,7 +1119,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 85",
-        "ar": "الدرس ٨٥"
+        "ar": "الدرس الخامس والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-085.mp3",
       "durationSeconds": 769,
@@ -1132,7 +1132,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 86",
-        "ar": "الدرس ٨٦"
+        "ar": "الدرس السادس والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-086.mp3",
       "durationSeconds": 988,
@@ -1145,7 +1145,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 87",
-        "ar": "الدرس ٨٧"
+        "ar": "الدرس السابع والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-087.mp3",
       "durationSeconds": 735,
@@ -1158,7 +1158,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 88",
-        "ar": "الدرس ٨٨"
+        "ar": "الدرس الثامن والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-088.mp3",
       "durationSeconds": 844,
@@ -1171,7 +1171,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 89",
-        "ar": "الدرس ٨٩"
+        "ar": "الدرس التاسع والثمانون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-089.mp3",
       "durationSeconds": 588,
@@ -1184,7 +1184,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 90",
-        "ar": "الدرس ٩٠"
+        "ar": "الدرس التسعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-090.mp3",
       "durationSeconds": 798,
@@ -1197,7 +1197,7 @@
       "chapterId": "",
       "title": {
         "en": "Dars 91",
-        "ar": "الدرس ٩١"
+        "ar": "الدرس الحادي والتسعون"
       },
       "audioUrl": "https://pub-8a0d3971e9fd4d7c991d2300ca9bdca5.r2.dev/tawheed-ar/lec-091.mp3",
       "durationSeconds": 763,
