@@ -16,6 +16,6 @@
     "arabicTranslations": false,
     "crossDeviceSync": false,
     "searchLectures": false,
-    "multiSeries": false
+    "multiSeries": true
   }
 }
