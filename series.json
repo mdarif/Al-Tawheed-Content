@@ -22,6 +22,7 @@
       "catalogUrl": "https://al-tawheed-content.pages.dev/tawheed-ar/catalog.json",
       "storagePrefix": "ar_",
       "hasStudyMode": false,
+      "hasBook": true,
       "language": "ar",
       "displayName": {
         "en": "Kitab at-Tawheed (Arabic)",
