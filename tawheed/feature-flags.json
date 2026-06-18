@@ -10,12 +10,13 @@
     "shareButton": true,
     "playbackSpeed": true,
     "continueListening": true,
-    "language": false
+    "language": false,
+    "seriesSwitcher": true
   },
   "experimental": {
     "arabicTranslations": false,
     "crossDeviceSync": false,
     "searchLectures": false,
-    "multiSeries": true
+    "multiSeries": false
   }
 }
