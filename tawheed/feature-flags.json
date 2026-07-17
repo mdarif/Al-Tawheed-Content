@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T00:00:00Z",
+  "updatedAt": "2026-07-17T00:00:00Z",
   "features": {
     "bookmarks": true,
     "downloads": true,
@@ -8,6 +8,7 @@
     "dailyBenefits": true,
     "announcements": false,
     "shareButton": true,
+    "shareLectureRow": true,
     "playbackSpeed": true,
     "continueListening": true,
     "language": false,
